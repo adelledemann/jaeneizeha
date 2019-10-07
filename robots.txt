@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohqueicaep.prcasting.com/sitemap.xml
